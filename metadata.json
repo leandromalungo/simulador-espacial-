@@ -1,0 +1,10 @@
+{
+  "name": "Paper World - 3D Hand Gesture Paper Plane Flight Game",
+  "description": "Pilote um avião de papel num mundo 3D estilizado de origami usando os movimentos da sua mão captados pela câmara, ou controlos de teclado e toque.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
